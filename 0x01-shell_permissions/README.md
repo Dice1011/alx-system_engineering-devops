@@ -26,3 +26,5 @@ The file olleh will be in the working directory
 Task 11: Script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 
 Task 12: Script creates a directory called my_dir with permissions 751 in the working directory.
+
+Task 13: Script changes the group owner to school for the file hello.
